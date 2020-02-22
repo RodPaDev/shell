@@ -16,3 +16,5 @@ What I didn't learn
 
 The reason I didn't learn it, is because there are many parts of the shell that I'm so new to, this is was my first introduction to C and quite a fun one.  
 I used this mainly to learn C syntax and not to learn how to write a unix shell.
+
+This was a nice start.
